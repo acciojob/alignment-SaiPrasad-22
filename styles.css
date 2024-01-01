@@ -3,6 +3,10 @@
 	justify-content:middle;
 } */
 
+*{
+	padding: 1px;
+}
+
 .center{
 	text-align:center;
 }
