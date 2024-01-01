@@ -3,8 +3,9 @@
 	justify-content:middle;
 } */
 
-tr{
+td{
 	padding: 1px;
+	border:1px solid rgb(0, 0, 0);
 }
 
 .center{
